@@ -1,0 +1,5 @@
+﻿  Cpp-Vectors.cpp
+D:\My Documents\Workshop\Cplusplus\Cpp-Vectors\Cpp-Vectors.cpp(10,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\My Documents\Workshop\Cplusplus\Cpp-Vectors\Cpp-Vectors.cpp(17,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\My Documents\Workshop\Cplusplus\Cpp-Vectors\Cpp-Vectors.cpp(26,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Cpp-Vectors.vcxproj -> D:\My Documents\Workshop\Cplusplus\Cpp-Vectors\x64\Debug\Cpp-Vectors.exe
